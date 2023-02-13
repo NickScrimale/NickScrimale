@@ -12,13 +12,13 @@
 
 
 ### Current Work  
-- 🔭 I’m currently working on Front-End Capstone  
+- 🔭 I’m currently working on Full Stack Capstone  
   
 
 
 
 ### Current study  
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning Python with Django 
   
 
 
