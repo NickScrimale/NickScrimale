@@ -6,19 +6,19 @@
 
 
 ### Intro  
-### <div align="center">I'm Nick, a junior developer with experience in React</div>  
+### <div align="center">I'm Nick, a junior developer with experience in React and Python</div>  
   
 
 
 
 ### Current Work  
-- 🔭 I’m currently working on Full Stack Capstone  
+- 🔭 I’m currently looking for a Devloper job  
   
 
 
 
 ### Current study  
-- 🌱 I’m currently learning Python with Django 
+- 🌱 I’m currently learning CUDA Programming
   
 
 
